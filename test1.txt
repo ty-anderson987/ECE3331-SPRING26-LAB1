@@ -1,0 +1,275 @@
+=== Full System Diagnostic Log ===
+FWD_BASE_L:65535 FWD_BASE_R:60535
+SONAR1_STOP:15cm SONAR2_STOP:10cm
+================================================================================
+[  64923ms] START
+[  68033ms] LV:0.32V LC:  194.7mA LP:   62.0mW | RV:0.28V RC:  197.4mA RP:   52.0mW | LT:   39 RT:   38 Err:   1 | F:  56.4cm SR:  50.6cm SL:  60.1cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_L
+[  68625ms] LV:0.31V LC:  171.5mA LP:   66.0mW | RV:0.29V RC:  175.3mA RP:   52.0mW | LT:   49 RT:   49 Err:   0 | F:  57.4cm SR:  50.6cm SL: 221.2cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:OK
+[  69220ms] LV:0.33V LC:  218.4mA LP:   78.0mW | RV:0.32V RC:  167.8mA RP:   52.0mW | LT:   59 RT:   59 Err:   0 | F:  52.3cm SR:  56.8cm SL: 221.2cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:OK
+[  69813ms] LV:0.30V LC:  225.0mA LP:   58.0mW | RV:0.31V RC:  180.8mA RP:   56.0mW | LT:   69 RT:   70 Err:  -1 | F:  51.5cm SR:  56.8cm SL: 221.2cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[  70407ms] LV:0.36V LC:  215.4mA LP:   86.0mW | RV:0.30V RC:  160.0mA RP:   46.0mW | LT:   78 RT:   80 Err:  -2 | F:  61.8cm SR:  56.8cm SL:  57.2cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[  71004ms] LV:0.34V LC:  208.0mA LP:   72.0mW | RV:0.28V RC:  161.2mA RP:   46.0mW | LT:   89 RT:   90 Err:  -1 | F:  61.0cm SR:  57.1cm SL:  57.2cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[  71604ms] LV:0.32V LC:  262.3mA LP:   92.0mW | RV:0.30V RC:  143.5mA RP:   40.0mW | LT:   98 RT:  100 Err:  -2 | F:  60.8cm SR:  57.1cm SL:  57.2cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[  72198ms] LV:0.34V LC:  250.9mA LP:   86.0mW | RV:0.30V RC:  220.1mA RP:   50.0mW | LT:  109 RT:  110 Err:  -1 | F:  56.9cm SR:  57.1cm SL:  50.5cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[  72796ms] LV:0.35V LC:  258.0mA LP:   96.0mW | RV:0.32V RC:  151.8mA RP:   66.0mW | LT:  119 RT:  121 Err:  -2 | F:  61.1cm SR:  57.7cm SL:  50.5cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[  73388ms] LV:0.33V LC:  196.4mA LP:   66.0mW | RV:0.28V RC:  187.7mA RP:   52.0mW | LT:  128 RT:  130 Err:  -2 | F:  59.5cm SR:  57.7cm SL:  50.5cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[  73987ms] LV:0.37V LC:  231.3mA LP:   88.0mW | RV:0.33V RC:  208.3mA RP:   66.0mW | LT:  138 RT:  140 Err:  -2 | F:  97.4cm SR:  57.7cm SL: 104.8cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[  74585ms] LV:0.40V LC:  304.6mA LP:  124.0mW | RV:0.22V RC:   88.4mA RP:   16.0mW | LT:  145 RT:  152 Err:  -7 | F:  57.8cm SR:  56.7cm SL: 104.8cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[  75180ms] LV:0.33V LC:  186.7mA LP:   72.0mW | RV:0.31V RC:  189.7mA RP:   56.0mW | LT:  152 RT:  163 Err: -11 | F:  52.5cm SR:  56.7cm SL: 104.8cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[  75773ms] LV:0.40V LC:  296.7mA LP:  122.0mW | RV:0.32V RC:  199.3mA RP:   58.0mW | LT:  165 RT:  173 Err:  -8 | F:  57.0cm SR:  56.7cm SL:  56.8cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[  76380ms] LV:0.38V LC:  258.0mA LP:  112.0mW | RV:0.31V RC:  142.7mA RP:   40.0mW | LT:  173 RT:  183 Err: -10 | F:  59.7cm SR:  50.4cm SL:  56.8cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[  76975ms] LV:0.39V LC:  240.5mA LP:   92.0mW | RV:0.33V RC:  197.6mA RP:   66.0mW | LT:  181 RT:  193 Err: -12 | F:  32.8cm SR:  50.4cm SL:  56.8cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[  77209ms] STOP: SONAR1 13.5cm
+[  77336ms] STOP: SONAR1 13.7cm
+[  77453ms] STOP: SONAR1 13.5cm
+[  77570ms] STOP: SONAR1 13.5cm
+[  77571ms] LV:0.01V LC:   -0.0mA LP:    0.0mW | RV:0.02V RC:    0.1mA RP:    0.0mW | LT:  185 RT:  197 Err: -12 | F:  13.5cm SR:  50.4cm SL:  13.1cm | Floor:UNKNOWN        Ball:RED      | IR1:0 IR2:0 | Act:SLOW_R
+[  77689ms] STOP: SONAR1 13.3cm
+[  77811ms] STOP: SONAR1 13.3cm
+[  77927ms] STOP: SONAR1 10.7cm
+[  78045ms] STOP: SONAR2 R:9.6cm L:13.1cm
+[  78162ms] STOP: SONAR2 R:9.6cm L:13.1cm
+[  78163ms] LV:0.00V LC:   -0.0mA LP:    0.0mW | RV:0.02V RC:    0.2mA RP:    0.0mW | LT:  185 RT:  197 Err: -12 | F:  12.1cm SR:   9.6cm SL:  13.1cm | Floor:UNKNOWN        Ball:RED      | IR1:0 IR2:0 | Act:SLOW_R
+[  78280ms] STOP: SONAR2 R:9.6cm L:13.1cm
+[  78396ms] STOP: SONAR2 R:9.6cm L:13.1cm
+[  78514ms] STOP: SONAR2 R:9.6cm L:13.1cm
+[  78629ms] STOP: SONAR2 R:9.6cm L:13.1cm
+[  78745ms] STOP: SONAR2 R:9.6cm L:13.1cm
+[  78747ms] LV:0.00V LC:   -0.1mA LP:    0.0mW | RV:0.02V RC:    0.1mA RP:    0.0mW | LT:  185 RT:  197 Err: -12 | F:  12.0cm SR:   9.6cm SL:  13.1cm | Floor:UNKNOWN        Ball:RED      | IR1:0 IR2:0 | Act:SLOW_R
+[  78864ms] STOP: SONAR2 R:9.6cm L:13.1cm
+[  78981ms] STOP: SONAR2 R:9.6cm L:8.5cm
+[  79098ms] STOP: SONAR2 R:9.6cm L:8.5cm
+[  79214ms] STOP: SONAR2 R:9.6cm L:8.5cm
+[  79331ms] STOP: SONAR2 R:9.6cm L:8.5cm
+[  79333ms] LV:0.01V LC:    0.2mA LP:    0.0mW | RV:0.02V RC:   -0.0mA RP:    0.0mW | LT:  185 RT:  197 Err: -12 | F:  13.2cm SR:   9.6cm SL:   8.5cm | Floor:UNKNOWN        Ball:RED      | IR1:0 IR2:0 | Act:SLOW_R
+[  79451ms] STOP: SONAR2 R:9.6cm L:8.5cm
+[  79568ms] STOP: SONAR2 R:9.6cm L:8.5cm
+[  79685ms] STOP: SONAR2 R:9.6cm L:8.5cm
+[  79803ms] STOP: SONAR2 R:33.2cm L:8.5cm
+[  79922ms] STOP: SONAR2 R:33.2cm L:8.5cm
+[  79924ms] LV:0.01V LC:   -0.1mA LP:    0.0mW | RV:0.02V RC:    0.2mA RP:    0.0mW | LT:  185 RT:  197 Err: -12 | F:  44.3cm SR:  33.2cm SL:   8.5cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[  80044ms] STOP: SONAR2 R:33.2cm L:8.5cm
+[  80162ms] STOP: SONAR2 R:33.2cm L:8.5cm
+[  80282ms] STOP: SONAR2 R:33.2cm L:8.5cm
+[  80404ms] STOP: SONAR2 R:33.2cm L:8.5cm
+[  80526ms] STOP: SONAR2 R:33.2cm L:8.5cm
+[  80528ms] LV:0.00V LC:    0.1mA LP:    0.0mW | RV:0.02V RC:    0.3mA RP:    0.0mW | LT:  185 RT:  197 Err: -12 | F: 103.8cm SR:  33.2cm SL:   8.5cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[  80649ms] STOP: SONAR2 R:33.2cm L:8.5cm
+[  81125ms] LV:0.38V LC:  245.1mA LP:   92.0mW | RV:0.26V RC:  143.7mA RP:   46.0mW | LT:  189 RT:  201 Err: -12 | F:  54.4cm SR:  33.2cm SL:  68.9cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[  81715ms] LV:0.34V LC:  240.2mA LP:   82.0mW | RV:0.30V RC:  179.1mA RP:   56.0mW | LT:  200 RT:  212 Err: -12 | F:  53.9cm SR:  77.0cm SL:  68.9cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[  82298ms] LV:0.33V LC:  188.5mA LP:   78.0mW | RV:0.29V RC:  173.3mA RP:   52.0mW | LT:  210 RT:  221 Err: -11 | F:  15.0cm SR:  77.0cm SL:  68.9cm | Floor:UNKNOWN        Ball:RED      | IR1:0 IR2:0 | Act:SLOW_R
+[  82415ms] STOP: SONAR1 13.3cm
+[  82532ms] STOP: SONAR2 R:77.0cm L:7.9cm
+[  82648ms] STOP: SONAR2 R:77.0cm L:7.9cm
+[  82765ms] STOP: SONAR2 R:77.0cm L:7.9cm
+[  82882ms] STOP: SONAR2 R:77.0cm L:7.9cm
+[  82884ms] LV:0.01V LC:    0.1mA LP:    0.0mW | RV:0.02V RC:    0.2mA RP:    0.0mW | LT:  213 RT:  224 Err: -11 | F:  13.5cm SR:  77.0cm SL:   7.9cm | Floor:UNKNOWN        Ball:RED      | IR1:0 IR2:0 | Act:SLOW_R
+[  83002ms] STOP: SONAR2 R:77.0cm L:7.9cm
+[  83119ms] STOP: SONAR2 R:77.0cm L:7.9cm
+[  83237ms] STOP: SONAR2 R:77.0cm L:7.9cm
+[  83355ms] STOP: SONAR2 R:77.0cm L:7.9cm
+[  83474ms] STOP: SONAR2 R:38.3cm L:7.9cm
+[  83475ms] LV:0.00V LC:    0.2mA LP:    0.0mW | RV:0.02V RC:    0.3mA RP:    0.0mW | LT:  213 RT:  224 Err: -11 | F:  50.1cm SR:  38.3cm SL:   7.9cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[  83596ms] STOP: SONAR2 R:38.3cm L:7.9cm
+[  83715ms] STOP: SONAR2 R:38.3cm L:7.9cm
+[  83834ms] STOP: SONAR2 R:38.3cm L:7.9cm
+[  83952ms] STOP: SONAR2 R:38.3cm L:7.9cm
+[  84070ms] STOP: SONAR2 R:38.3cm L:7.9cm
+[  84072ms] LV:0.00V LC:    0.1mA LP:    0.0mW | RV:0.02V RC:    0.1mA RP:    0.0mW | LT:  213 RT:  224 Err: -11 | F:  42.9cm SR:  38.3cm SL:   7.9cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[  84193ms] STOP: SONAR2 R:38.3cm L:7.9cm
+[  84666ms] LV:0.37V LC:  214.6mA LP:   88.0mW | RV:0.27V RC:  184.6mA RP:   50.0mW | LT:  218 RT:  228 Err: -10 | F:  60.4cm SR:  38.3cm SL:  50.7cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[  85261ms] LV:0.34V LC:  261.1mA LP:   92.0mW | RV:0.31V RC:  177.6mA RP:   50.0mW | LT:  227 RT:  238 Err: -11 | F:  50.9cm SR:  57.0cm SL:  50.7cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[  85854ms] LV:0.34V LC:  241.4mA LP:   92.0mW | RV:0.32V RC:  178.3mA RP:   50.0mW | LT:  236 RT:  248 Err: -12 | F:  59.0cm SR:  57.0cm SL:  50.7cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[  86449ms] LV:0.36V LC:  213.7mA LP:   66.0mW | RV:0.25V RC:  179.4mA RP:   42.0mW | LT:  246 RT:  258 Err: -12 | F:  57.2cm SR:  57.0cm SL:  44.4cm | Floor:UNKNOWN        Ball:NONE     | IR1:1 IR2:1 | Act:SLOW_R
+[  87040ms] LV:0.14V LC:   44.1mA LP:    6.0mW | RV:0.12V RC:   98.0mA RP:   14.0mW | LT:  264 RT:  273 Err:  -9 | F:  56.5cm SR: 284.4cm SL:  44.4cm | Floor:UNKNOWN        Ball:NONE     | IR1:1 IR2:1 | Act:SLOW_R
+[  87381ms] STOP: BLACK_BORDER
+[ 106940ms] START
+[ 110076ms] LV:0.32V LC:  230.6mA LP:   76.0mW | RV:0.31V RC:  167.4mA RP:   52.0mW | LT:   35 RT:   37 Err:  -2 | F:  55.6cm SR: 999.0cm SL:  48.0cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 111191ms] LV:0.36V LC:  222.1mA LP:   88.0mW | RV:0.32V RC:  171.0mA RP:   52.0mW | LT:   53 RT:   56 Err:  -3 | F:  56.7cm SR:  57.2cm SL:  50.7cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 111784ms] LV:0.36V LC:  217.9mA LP:   68.0mW | RV:0.30V RC:  164.2mA RP:   42.0mW | LT:   63 RT:   66 Err:  -3 | F:  59.6cm SR:  57.2cm SL:  50.7cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 112381ms] LV:0.35V LC:  205.2mA LP:   72.0mW | RV:0.31V RC:  183.7mA RP:   52.0mW | LT:   73 RT:   76 Err:  -3 | F:  49.7cm SR:  52.2cm SL:  50.7cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 112982ms] LV:0.31V LC:  212.9mA LP:   68.0mW | RV:0.24V RC:  179.6mA RP:   40.0mW | LT:   83 RT:   87 Err:  -4 | F:  19.3cm SR:  52.2cm SL:  16.4cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 113577ms] LV:0.33V LC:  230.0mA LP:   76.0mW | RV:0.30V RC:  137.0mA RP:   42.0mW | LT:   93 RT:   95 Err:  -2 | F:  56.7cm SR:  52.2cm SL:  16.4cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 114699ms] LV:0.28V LC:  223.5mA LP:   66.0mW | RV:0.18V RC:  110.8mA RP:   14.0mW | LT:  109 RT:  121 Err: -12 | F: 239.7cm SR:  57.2cm SL:  16.4cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 115298ms] LV:0.16V LC:   97.5mA LP:   16.0mW | RV:0.16V RC:  102.2mA RP:   14.0mW | LT:  129 RT:  136 Err:  -7 | F:  58.4cm SR:  57.2cm SL:  53.5cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 115754ms] STOP: BLACK_BORDER
+[ 133398ms] START
+[ 136506ms] LV:0.32V LC:  202.9mA LP:   56.0mW | RV:0.21V RC:   64.9mA RP:   14.0mW | LT:   46 RT:   39 Err:   7 | F:  56.7cm SR:  57.1cm SL:  36.3cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_L
+[ 137016ms] LV:0.43V LC:  311.7mA LP:  124.0mW | RV:0.24V RC:   42.8mA RP:   10.0mW | LT:   62 RT:   52 Err:  10 | F:  56.5cm SR: 408.2cm SL:  36.3cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_L
+[ 137608ms] LV:0.47V LC:  350.7mA LP:  160.0mW | RV:0.22V RC:   96.5mA RP:   16.0mW | LT:   66 RT:   67 Err:  -1 | F:  51.6cm SR: 408.2cm SL:  36.3cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 138200ms] LV:0.43V LC:  301.5mA LP:  128.0mW | RV:0.22V RC:   61.1mA RP:   16.0mW | LT:   71 RT:   81 Err: -10 | F:  44.4cm SR: 408.2cm SL:  37.5cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 138821ms] LV:0.30V LC:  192.4mA LP:   58.0mW | RV:0.24V RC:   55.0mA RP:   14.0mW | LT:   78 RT:   96 Err: -18 | F:  43.5cm SR: 999.0cm SL:  37.5cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 139649ms] LV:0.28V LC:  111.7mA LP:   32.0mW | RV:0.36V RC:  276.0mA RP:   98.0mW | LT:   96 RT:  113 Err: -17 | F:  57.5cm SR: 999.0cm SL:  37.5cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 140238ms] LV:0.38V LC:  230.7mA LP:   76.0mW | RV:0.28V RC:  195.5mA RP:   58.0mW | LT:  107 RT:  122 Err: -15 | F:  44.2cm SR: 999.0cm SL:  38.1cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 140833ms] LV:0.30V LC:  229.9mA LP:   88.0mW | RV:0.33V RC:  220.7mA RP:   66.0mW | LT:  117 RT:  132 Err: -15 | F:  72.7cm SR: 120.2cm SL:  38.1cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 141425ms] LV:0.34V LC:  222.8mA LP:   76.0mW | RV:0.27V RC:  195.6mA RP:   46.0mW | LT:  126 RT:  142 Err: -16 | F:  70.2cm SR: 120.2cm SL:  38.1cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 142019ms] LV:0.36V LC:  225.5mA LP:   72.0mW | RV:0.28V RC:  200.7mA RP:   56.0mW | LT:  136 RT:  152 Err: -16 | F:  42.9cm SR: 120.2cm SL:  50.9cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 142609ms] LV:0.34V LC:  193.4mA LP:   86.0mW | RV:0.31V RC:  182.2mA RP:   56.0mW | LT:  146 RT:  162 Err: -16 | F:  40.3cm SR:  43.1cm SL:  50.9cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 143199ms] LV:0.34V LC:  237.3mA LP:   78.0mW | RV:0.27V RC:  163.1mA RP:   56.0mW | LT:  156 RT:  171 Err: -15 | F:  52.8cm SR:  43.1cm SL:  50.9cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 143788ms] LV:0.37V LC:  218.3mA LP:   82.0mW | RV:0.27V RC:  185.1mA RP:   46.0mW | LT:  165 RT:  181 Err: -16 | F:  42.7cm SR:  43.1cm SL:  38.2cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 145033ms] LV:0.33V LC:  227.3mA LP:   76.0mW | RV:0.33V RC:  176.5mA RP:   58.0mW | LT:  186 RT:  202 Err: -16 | F:  29.7cm SR:  56.8cm SL:  38.2cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 145616ms] STOP: SONAR1 13.7cm
+[ 145617ms] LV:0.32V LC:  223.9mA LP:   88.0mW | RV:0.30V RC:  156.5mA RP:   62.0mW | LT:  195 RT:  212 Err: -17 | F:  13.7cm SR:  56.8cm SL:  21.8cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[ 145736ms] STOP: SONAR1 13.0cm
+[ 145852ms] STOP: SONAR1 14.4cm
+[ 145968ms] STOP: SONAR1 12.7cm
+[ 146085ms] STOP: SONAR1 12.6cm
+[ 146202ms] STOP: SONAR1 12.7cm
+[ 146204ms] LV:0.00V LC:   -0.1mA LP:    0.0mW | RV:0.02V RC:    0.1mA RP:    0.0mW | LT:  195 RT:  212 Err: -17 | F:  12.7cm SR:  50.6cm SL:  21.8cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[ 146322ms] STOP: SONAR1 12.7cm
+[ 146438ms] STOP: SONAR1 12.7cm
+[ 146555ms] STOP: SONAR1 12.7cm
+[ 146787ms] STOP: SONAR1 12.3cm
+[ 146789ms] LV:0.45V LC:  289.3mA LP:  132.0mW | RV:0.37V RC:  223.4mA RP:   96.0mW | LT:  196 RT:  213 Err: -17 | F:  12.3cm SR:  50.6cm SL:  21.8cm | Floor:UNKNOWN        Ball:RED      | IR1:0 IR2:0 | Act:SLOW_R
+[ 146908ms] STOP: SONAR1 10.2cm
+[ 147024ms] STOP: SONAR1 10.3cm
+[ 147141ms] STOP: SONAR1 10.2cm
+[ 147258ms] STOP: SONAR1 11.9cm
+[ 147374ms] STOP: SONAR1 10.3cm
+[ 147375ms] LV:0.00V LC:   -0.0mA LP:    0.0mW | RV:0.02V RC:    0.3mA RP:    0.0mW | LT:  196 RT:  214 Err: -17 | F:  10.3cm SR:  50.6cm SL:  36.5cm | Floor:UNKNOWN        Ball:RED      | IR1:0 IR2:0 | Act:SLOW_R
+[ 147493ms] STOP: SONAR1 12.0cm
+[ 147609ms] STOP: SONAR1 10.1cm
+[ 147726ms] STOP: SONAR1 11.9cm
+[ 147842ms] STOP: SONAR1 9.7cm
+[ 147959ms] STOP: SONAR1 10.3cm
+[ 147960ms] LV:0.01V LC:   -0.0mA LP:    0.0mW | RV:0.02V RC:    0.3mA RP:    0.0mW | LT:  196 RT:  214 Err: -17 | F:  10.3cm SR: 168.8cm SL:  36.5cm | Floor:UNKNOWN        Ball:RED      | IR1:0 IR2:0 | Act:SLOW_R
+[ 148656ms] STOP: SONAR1 10.3cm
+[ 148658ms] LV:0.00V LC:   -0.1mA LP:    0.0mW | RV:0.02V RC:    0.1mA RP:    0.0mW | LT:  196 RT:  214 Err: -17 | F:  10.3cm SR: 168.8cm SL:  36.5cm | Floor:UNKNOWN        Ball:RED      | IR1:0 IR2:0 | Act:SLOW_R
+[ 148776ms] STOP: SONAR1 12.1cm
+[ 148892ms] STOP: SONAR1 10.4cm
+[ 149009ms] STOP: SONAR1 10.2cm
+[ 149125ms] STOP: SONAR1 10.1cm
+[ 149241ms] STOP: SONAR1 11.9cm
+[ 149242ms] LV:0.00V LC:    0.1mA LP:    0.0mW | RV:0.02V RC:    0.3mA RP:    0.0mW | LT:  196 RT:  214 Err: -17 | F:  11.9cm SR: 168.8cm SL:  36.8cm | Floor:UNKNOWN        Ball:RED      | IR1:0 IR2:0 | Act:SLOW_R
+[ 149502ms] STOP: SONAR1 11.6cm
+[ 149618ms] STOP: SONAR1 10.3cm
+[ 149734ms] STOP: SONAR1 9.9cm
+[ 149851ms] STOP: SONAR1 9.5cm
+[ 149852ms] LV:0.01V LC:   -0.0mA LP:    0.0mW | RV:0.02V RC:    0.3mA RP:    0.0mW | LT:  197 RT:  216 Err: -18 | F:   9.5cm SR:  56.9cm SL:  36.8cm | Floor:UNKNOWN        Ball:RED      | IR1:0 IR2:0 | Act:SLOW_R
+[ 149971ms] STOP: SONAR1 9.5cm
+[ 150088ms] STOP: SONAR1 11.1cm
+[ 150204ms] STOP: SONAR1 10.1cm
+[ 150329ms] STOP: SONAR1 9.5cm
+[ 150446ms] STOP: SONAR1 12.0cm
+[ 150447ms] LV:0.01V LC:    0.1mA LP:    0.0mW | RV:0.02V RC:    0.2mA RP:    0.0mW | LT:  197 RT:  216 Err: -18 | F:  12.0cm SR:  56.9cm SL:  36.8cm | Floor:UNKNOWN        Ball:RED      | IR1:0 IR2:0 | Act:SLOW_R
+[ 151059ms] LV:0.34V LC:  240.0mA LP:   68.0mW | RV:0.31V RC:  165.4mA RP:   52.0mW | LT:  204 RT:  223 Err: -19 | F:  38.5cm SR:  56.9cm SL:  17.1cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 152247ms] LV:0.30V LC:  225.7mA LP:   68.0mW | RV:0.30V RC:  169.2mA RP:   52.0mW | LT:  224 RT:  243 Err: -19 | F:  50.7cm SR:  50.4cm SL:  17.1cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[ 152366ms] STOP: SONAR2 R:50.4cm L:6.2cm
+[ 152484ms] STOP: SONAR2 R:50.4cm L:6.2cm
+[ 152601ms] STOP: SONAR2 R:50.4cm L:6.2cm
+[ 152745ms] STOP: SONAR2 R:50.4cm L:6.2cm
+[ 152863ms] STOP: SONAR2 R:50.4cm L:6.2cm
+[ 152864ms] LV:0.00V LC:    0.3mA LP:    0.0mW | RV:0.02V RC:    0.3mA RP:    0.0mW | LT:  227 RT:  246 Err: -19 | F:  27.3cm SR:  50.4cm SL:   6.2cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 152985ms] STOP: SONAR2 R:50.4cm L:6.2cm
+[ 153104ms] STOP: SONAR2 R:50.4cm L:6.2cm
+[ 153223ms] STOP: SONAR2 R:48.1cm L:6.2cm
+[ 153342ms] STOP: SONAR2 R:48.1cm L:6.2cm
+[ 154046ms] STOP: SONAR2 R:48.1cm L:6.2cm
+[ 154047ms] LV:0.00V LC:   -0.0mA LP:    0.0mW | RV:0.02V RC:    0.3mA RP:    0.0mW | LT:  227 RT:  246 Err: -19 | F:  43.7cm SR:  48.1cm SL:   6.2cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 154645ms] LV:0.32V LC:  251.9mA LP:   58.0mW | RV:0.29V RC:  197.4mA RP:   58.0mW | LT:  233 RT:  252 Err: -20 | F:  63.2cm SR:  48.1cm SL:  50.6cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 155700ms] LV:0.32V LC:  213.6mA LP:   62.0mW | RV:0.32V RC:  212.3mA RP:   58.0mW | LT:  250 RT:  270 Err: -20 | F:  36.5cm SR:  57.0cm SL:  50.6cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 156678ms] LV:0.34V LC:  249.2mA LP:   88.0mW | RV:0.33V RC:  176.9mA RP:   68.0mW | LT:  266 RT:  287 Err: -21 | F:  58.8cm SR:  57.0cm SL:  45.6cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 157269ms] LV:0.32V LC:  207.5mA LP:   66.0mW | RV:0.32V RC:  175.7mA RP:   56.0mW | LT:  276 RT:  296 Err: -20 | F:  56.6cm SR:  60.9cm SL:  45.6cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 157955ms] LV:0.34V LC:  230.3mA LP:   72.0mW | RV:0.31V RC:  169.9mA RP:   66.0mW | LT:  287 RT:  308 Err: -21 | F:  43.0cm SR:  60.9cm SL:  50.2cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 158543ms] LV:0.38V LC:  266.5mA LP:   88.0mW | RV:0.33V RC:  197.5mA RP:   76.0mW | LT:  296 RT:  317 Err: -21 | F:  34.9cm SR:  60.9cm SL:  50.2cm | Floor:UNKNOWN        Ball:NONE     | IR1:1 IR2:1 | Act:SLOW_R
+[ 159296ms] STOP: SONAR1 3.6cm
+[ 159297ms] LV:0.50V LC:  329.7mA LP:  164.0mW | RV:0.41V RC:  264.9mA RP:  104.0mW | LT:  307 RT:  329 Err: -21 | F:   3.6cm SR:  13.0cm SL:  50.2cm | Floor:UNKNOWN        Ball:NONE     | IR1:0 IR2:0 | Act:SLOW_R
+[ 160027ms] LV:0.00V LC:    0.1mA LP:    0.0mW | RV:0.02V RC:   -0.0mA RP:    0.0mW | LT:  307 RT:  329 Err: -22 | F:  20.9cm SR:  13.0cm SL:  10.2cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 160958ms] LV:0.25V LC:  191.9mA LP:   52.0mW | RV:0.17V RC:   87.1mA RP:   16.0mW | LT:  319 RT:  346 Err: -26 | F:  38.4cm SR:  29.9cm SL:  10.2cm | Floor:UNKNOWN        Ball:NONE     | IR1:1 IR2:1 | Act:SLOW_R
+[ 161544ms] LV:0.11V LC:   98.2mA LP:   10.0mW | RV:0.12V RC:  105.3mA RP:   16.0mW | LT:  344 RT:  360 Err: -16 | F:  43.2cm SR:  29.9cm SL:  37.1cm | Floor:UNKNOWN        Ball:NONE     | IR1:1 IR2:1 | Act:SLOW_R
+[ 161891ms] STOP: BLACK_BORDER
+[ 187085ms] START
+[ 190200ms] LV:0.34V LC:  214.0mA LP:   72.0mW | RV:0.30V RC:  208.5mA RP:   52.0mW | LT:   38 RT:   38 Err:   0 | F:  56.6cm SR:  56.8cm SL:  59.0cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:OK
+[ 190791ms] LV:0.32V LC:  228.7mA LP:   82.0mW | RV:0.27V RC:  149.1mA RP:   40.0mW | LT:   47 RT:   48 Err:  -1 | F:  56.9cm SR:  56.8cm SL:  59.0cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 191389ms] LV:0.34V LC:  205.8mA LP:   68.0mW | RV:0.30V RC:  198.9mA RP:   58.0mW | LT:   57 RT:   59 Err:  -2 | F:  98.0cm SR:  43.4cm SL:  59.0cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 192234ms] LV:0.37V LC:  226.3mA LP:   88.0mW | RV:0.29V RC:  146.5mA RP:   42.0mW | LT:   70 RT:   73 Err:  -3 | F:  93.5cm SR:  43.4cm SL:  50.9cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 192827ms] LV:0.31V LC:  213.8mA LP:   68.0mW | RV:0.28V RC:  179.0mA RP:   52.0mW | LT:   80 RT:   83 Err:  -3 | F:  58.3cm SR:  43.4cm SL:  50.9cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 193529ms] LV:0.34V LC:  237.8mA LP:   68.0mW | RV:0.32V RC:  162.8mA RP:   52.0mW | LT:   92 RT:   94 Err:  -2 | F:  58.6cm SR:  44.9cm SL:  50.9cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_R
+[ 194112ms] STOP: SONAR1 9.9cm
+[ 194113ms] LV:0.22V LC:  139.5mA LP:   32.0mW | RV:0.32V RC:  245.5mA RP:   72.0mW | LT:  102 RT:  103 Err:  -3 | F:   9.9cm SR:  44.9cm SL:  35.1cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[ 194231ms] STOP: SONAR1 9.8cm
+[ 194347ms] STOP: SONAR1 9.4cm
+[ 194463ms] STOP: SONAR1 9.7cm
+[ 194579ms] STOP: SONAR1 9.6cm
+[ 194696ms] STOP: SONAR1 9.7cm
+[ 194698ms] LV:0.00V LC:    0.3mA LP:    0.0mW | RV:0.02V RC:    0.4mA RP:    0.0mW | LT:  102 RT:  104 Err:  -3 | F:   9.7cm SR:  36.2cm SL:  35.1cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[ 194815ms] STOP: SONAR1 9.6cm
+[ 195538ms] STOP: SONAR1 9.7cm
+[ 195539ms] LV:0.00V LC:    0.1mA LP:    0.0mW | RV:0.02V RC:    0.5mA RP:    0.0mW | LT:  102 RT:  104 Err:  -3 | F:   9.7cm SR:  36.2cm SL:  35.1cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[ 195658ms] STOP: SONAR1 9.5cm
+[ 195774ms] STOP: SONAR1 9.6cm
+[ 195890ms] STOP: SONAR1 8.3cm
+[ 196007ms] STOP: SONAR1 9.7cm
+[ 196123ms] STOP: SONAR1 9.5cm
+[ 196125ms] LV:0.01V LC:   -0.1mA LP:    0.0mW | RV:0.02V RC:    0.3mA RP:    0.0mW | LT:  102 RT:  104 Err:  -3 | F:   9.5cm SR:  36.2cm SL:  32.9cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[ 196242ms] STOP: SONAR1 9.6cm
+[ 196358ms] STOP: SONAR1 9.7cm
+[ 196474ms] STOP: SONAR1 9.4cm
+[ 196596ms] STOP: SONAR1 9.7cm
+[ 197366ms] STOP: SONAR1 8.3cm
+[ 197367ms] LV:0.00V LC:   -0.1mA LP:    0.0mW | RV:0.02V RC:    0.3mA RP:    0.0mW | LT:  104 RT:  104 Err:  -3 | F:   8.3cm SR:  34.8cm SL:  32.9cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[ 197486ms] STOP: SONAR1 11.5cm
+[ 197602ms] STOP: SONAR1 11.5cm
+[ 197718ms] STOP: SONAR1 8.1cm
+[ 197834ms] STOP: SONAR1 8.3cm
+[ 197950ms] STOP: SONAR1 9.9cm
+[ 197951ms] LV:0.00V LC:   -0.0mA LP:    0.0mW | RV:0.02V RC:    0.3mA RP:    0.0mW | LT:  104 RT:  104 Err:  -3 | F:   9.9cm SR:  34.8cm SL:  32.9cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[ 198070ms] STOP: SONAR1 9.4cm
+[ 198186ms] STOP: SONAR1 11.5cm
+[ 198302ms] STOP: SONAR1 7.1cm
+[ 198993ms] STOP: SONAR1 8.0cm
+[ 198994ms] LV:0.00V LC:   -0.0mA LP:    0.0mW | RV:0.02V RC:   -0.0mA RP:    0.0mW | LT:  104 RT:  104 Err:  -3 | F:   8.0cm SR:  36.2cm SL:  32.9cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[ 199112ms] STOP: SONAR1 8.2cm
+[ 199229ms] STOP: SONAR1 8.2cm
+[ 199345ms] STOP: SONAR1 8.1cm
+[ 199461ms] STOP: SONAR1 8.2cm
+[ 199577ms] STOP: SONAR1 8.1cm
+[ 199579ms] LV:0.00V LC:    0.1mA LP:    0.0mW | RV:0.02V RC:    0.2mA RP:    0.0mW | LT:  104 RT:  104 Err:  -3 | F:   8.1cm SR:  36.2cm SL:  33.2cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[ 199696ms] STOP: SONAR1 9.9cm
+[ 199813ms] STOP: SONAR1 9.9cm
+[ 199929ms] STOP: SONAR1 9.6cm
+[ 200046ms] STOP: SONAR1 11.7cm
+[ 200787ms] STOP: SONAR1 11.7cm
+[ 200788ms] LV:0.00V LC:    0.2mA LP:    0.0mW | RV:0.02V RC:    0.1mA RP:    0.0mW | LT:  104 RT:  104 Err:  -3 | F:  11.7cm SR:  36.0cm SL:  33.2cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[ 200907ms] STOP: SONAR1 8.4cm
+[ 201023ms] STOP: SONAR1 8.1cm
+[ 201139ms] STOP: SONAR1 8.2cm
+[ 201255ms] STOP: SONAR1 8.1cm
+[ 201377ms] STOP: SONAR1 8.2cm
+[ 201378ms] LV:0.00V LC:    0.2mA LP:    0.0mW | RV:0.02V RC:    0.5mA RP:    0.0mW | LT:  104 RT:  104 Err:  -3 | F:   8.2cm SR:  36.0cm SL:  33.1cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[ 201497ms] STOP: SONAR1 14.6cm
+[ 201613ms] STOP: SONAR1 9.8cm
+[ 201729ms] STOP: SONAR1 11.6cm
+[ 201845ms] STOP: SONAR1 8.3cm
+[ 202597ms] STOP: SONAR1 8.2cm
+[ 202599ms] LV:0.01V LC:    0.1mA LP:    0.0mW | RV:0.02V RC:    0.5mA RP:    0.0mW | LT:  104 RT:  104 Err:  -3 | F:   8.2cm SR:  37.9cm SL:  33.1cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[ 202716ms] STOP: SONAR1 8.0cm
+[ 202832ms] STOP: SONAR1 8.3cm
+[ 202949ms] STOP: SONAR1 9.7cm
+[ 203065ms] STOP: SONAR1 9.9cm
+[ 203185ms] STOP: SONAR1 9.7cm
+[ 203187ms] LV:0.00V LC:    0.1mA LP:    0.0mW | RV:0.02V RC:    0.3mA RP:    0.0mW | LT:  105 RT:  104 Err:  -3 | F:   9.7cm SR:  37.9cm SL:  32.9cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[ 203305ms] STOP: SONAR1 9.6cm
+[ 203421ms] STOP: SONAR1 9.4cm
+[ 203537ms] STOP: SONAR1 8.9cm
+[ 203654ms] STOP: SONAR1 9.6cm
+[ 203769ms] STOP: SONAR1 9.5cm
+[ 203771ms] LV:0.00V LC:   -0.1mA LP:    0.0mW | RV:0.02V RC:    0.3mA RP:    0.0mW | LT:  105 RT:  104 Err:  -3 | F:   9.5cm SR:  36.8cm SL:  32.9cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[ 203888ms] STOP: SONAR1 8.2cm
+[ 204004ms] STOP: SONAR1 9.7cm
+[ 204768ms] STOP: SONAR1 9.5cm
+[ 204769ms] LV:0.01V LC:    0.1mA LP:    0.0mW | RV:0.02V RC:    0.1mA RP:    0.0mW | LT:  105 RT:  104 Err:  -3 | F:   9.5cm SR:  36.8cm SL:  33.6cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:0 | Act:SLOW_R
+[ 204888ms] STOP: SONAR1 8.2cm
+[ 205004ms] STOP: SONAR1 11.7cm
+[ 205121ms] STOP: SONAR1 11.7cm
+[ 205237ms] STOP: SONAR1 13.2cm
+[ 205355ms] LV:0.00V LC:    0.2mA LP:    0.0mW | RV:0.02V RC:    0.2mA RP:    0.0mW | LT:  105 RT:  104 Err:   1 | F:  35.8cm SR:  36.8cm SL:  33.6cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_L
+[ 205957ms] LV:0.26V LC:  101.8mA LP:   22.0mW | RV:0.35V RC:  228.4mA RP:   78.0mW | LT:  118 RT:  112 Err:   6 | F:  56.7cm SR:  50.0cm SL:  33.6cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_L
+[ 206661ms] LV:0.34V LC:  220.5mA LP:   82.0mW | RV:0.34V RC:  206.0mA RP:   68.0mW | LT:  130 RT:  124 Err:   6 | F:  51.8cm SR:  50.0cm SL:  38.0cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_L
+[ 207256ms] LV:0.29V LC:  210.0mA LP:   58.0mW | RV:0.28V RC:  151.7mA RP:   46.0mW | LT:  140 RT:  134 Err:   5 | F:  38.6cm SR:  50.0cm SL:  38.0cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_L
+[ 207969ms] LV:0.30V LC:  182.3mA LP:   52.0mW | RV:0.27V RC:  200.2mA RP:   52.0mW | LT:  151 RT:  147 Err:   4 | F:  45.3cm SR:  56.2cm SL:  38.0cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_L
+[ 208564ms] LV:0.30V LC:  202.2mA LP:   58.0mW | RV:0.30V RC:  169.3mA RP:   58.0mW | LT:  160 RT:  158 Err:   2 | F:  62.7cm SR:  56.2cm SL:  56.9cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_L
+[ 209267ms] LV:0.34V LC:  190.0mA LP:   72.0mW | RV:0.27V RC:  194.8mA RP:   52.0mW | LT:  172 RT:  170 Err:   2 | F:  58.7cm SR:  71.0cm SL:  56.9cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:SLOW_L
+[ 210015ms] LV:0.34V LC:  231.4mA LP:   68.0mW | RV:0.30V RC:  170.9mA RP:   62.0mW | LT:  184 RT:  184 Err:   0 | F: 999.0cm SR:  71.0cm SL:  40.7cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:OK
+[ 210584ms] LV:0.34V LC:  236.9mA LP:   82.0mW | RV:0.28V RC:  169.1mA RP:   50.0mW | LT:  194 RT:  194 Err:   0 | F:  56.2cm SR:  71.0cm SL:  40.7cm | Floor:UNKNOWN        Ball:RED      | IR1:1 IR2:1 | Act:OK
+[ 211512ms] STOP — saving log
